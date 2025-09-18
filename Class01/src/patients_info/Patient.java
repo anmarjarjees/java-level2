@@ -1,3 +1,6 @@
+package patients_info;
+// the package patient_info => a sub-folder named "patient_info"
+
 public class Patient {
     // Properties and Methods:
     // OOP => Object-Oriented Programming => A PIE
@@ -124,3 +127,13 @@ public class Patient {
         System.out.println("ABC Health Clinic");
     }
 } // class
+/*
+ * Java Variable Naming Conventions:
+ * *********************************
+ * - variables start with lowercase
+ * - using camelCase with more than one word
+ * - No spaces
+ * - Cannot start with numbers
+ * - no hyphens
+ * - no reserved keywords
+ */
