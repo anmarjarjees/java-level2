@@ -1,18 +1,12 @@
-# Class01 - Quick Reviewing Part 1:
-Reviewing:
-- [Data types](https://github.com/anmarjarjees/java-essentials/blob/main/Java-Essentials/src/start/DataType.java)
-- [Input/Output](https://github.com/anmarjarjees/java-essentials/blob/main/Java-Essentials/src/start/InputOutput.java)
-- [Strings](https://github.com/anmarjarjees/java-essentials/blob/main/Java-Essentials/src/start/Strings.java)
-- A PIE Acronym
-- private and public access modifiers
-- default and custom constructors
-- "static" keyword
+# Class02 - Working with Exceptions and Files Introduction:
+## Topic01 - Exception Part1:
+- [Exception Introduction](https://github.com/anmarjarjees/java1-code/tree/main/week14)
 
-## Packages and Files Sequence:
-- The package "patient_info":
-    - Patient.java => The Blueprint Class
-    - App.java => The Main Class (has the main method)
----
+## Topic02 - Working with Files:
+- [Create and Read Files](https://github.com/anmarjarjees/java2-code/tree/main/week11)
+
+## Topic03 - Exception Part2:
+- [Files and Custom Exceptions](https://github.com/anmarjarjees/java2-code/tree/main/week11)
 
 ## Getting Started
 
