@@ -1,12 +1,17 @@
-# Class03 - Working with Exceptions and Files Introduction:
-## Topic01 - Exception Part1:
-- [Exception Introduction](https://github.com/anmarjarjees/java1-code/tree/main/week14)
+# Class04 - Working with Collections:
+Working with collections includes: Arrays, ArrayList, List, Set, TreeMap, TreeSet, Sorting (Collections.sort())
 
-## Topic02 - Working with Files:
-- [Create and Read Files](https://github.com/anmarjarjees/java2-code/tree/main/week11)
+## Topic01 - Arrays Quick Review:
+Review the code in the package "arrays_review" in the following sequence:
+- MyArray.java
+- MyArrayList.java
+- StrToArr.java
+- Link: [Arrays Review](https://github.com/anmarjarjees/java2-code/tree/main/week03/src/arrays_review)
 
-## Topic03 - Exception Part2:
-- [Files and Custom Exceptions](https://github.com/anmarjarjees/java2-code/tree/main/week11)
+
+## Topic02 - Working with Collections:
+Review the code in the package "collection" in the sequence: C1ClassName to C6ClassName.
+- Link: [Collections](https://github.com/anmarjarjees/java-essentials/tree/main/Java-Essentials/src/collections)
 
 
 ---
