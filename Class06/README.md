@@ -1,12 +1,13 @@
-# Class 05 - Testing Your Knowledge - Part1:
-This session includes exam part1 and an in-class lab assignment focused on Java Essentials and Exception Handling. It is designed to evaluate both your conceptual understanding and practical programming skills.
+# Class 06 - Testing Your Knowledge Part2 and Inner Class:
+This session includes the exam part2 and a lecture about using Anonymous (Inner) Class.
 
-## Topic01 - Main Exam Part 1:
-Reviewing your knowledge about Java Essentials.
+## Topic01 - Main Exam Part 2:
+Reviewing your knowledge about Java Essentials with Exception.
 
+## Topic02 - Anonymous Class:
+- Link: [Anonymous Class Examples](https://github.com/anmarjarjees/java-extra/tree/main/src/p02_anonymous_inner_classes)
+- Link: [Anonymous Class Definition](https://github.com/anmarjarjees/java-extra/tree/main?tab=readme-ov-file#anonymous-inner-class)
 
-## Topic02 - In-class Lab01:
-Java Essentials with Exception handling
 
 ---
 ---
