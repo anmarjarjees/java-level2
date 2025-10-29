@@ -4,7 +4,8 @@ This session includes two topics "Generics" and the first part of "Functional Pr
 ## Topic01 - Generics:
 - Link: [Generics](https://github.com/anmarjarjees/java-extra/tree/main/src/p04_generics)
     - Link: [About Generics](https://github.com/anmarjarjees/java-extra/tree/main?tab=readme-ov-file#generics)
-## Topic02 - Functional Programming:
+## Topic02 - Functional Programming (Part1):
+We will cover the first two packages: section1 and section2:
 - Link: [Functional Programming Examples](https://github.com/anmarjarjees/java-extra/tree/main/src/p05_functional_programming)
     - Link: [About Functional Programming](https://github.com/anmarjarjees/java-extra/tree/main?tab=readme-ov-file#functional-programming)
 
