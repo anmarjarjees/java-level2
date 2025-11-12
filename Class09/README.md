@@ -1,14 +1,11 @@
-# Class 08 - Working with "Generics" and "Functional Programming - Part1":
-This session includes two topics "Generics" and the first part of "Functional Programming"
+# Class 09 - Working with "Generics" and "Functional Programming - Part2":
+This session includes the second part of "Functional Programming"
 
-## Topic01 - Generics:
-- Link: [Generics](https://github.com/anmarjarjees/java-extra/tree/main/src/p04_generics)
-    - Link: [About Generics](https://github.com/anmarjarjees/java-extra/tree/main?tab=readme-ov-file#generics)
-## Topic02 - Functional Programming (Part1):
-We will cover the first two packages: section1 and section2:
+## Topic01 - Functional Programming (Part1):
+We will cover the final two packages: section3 and section4:
 
-    - s1_functional_lambdas_start
-    - s2_functional_lambdas_more
+    - Package: s3_functional_interfaces
+    - Package: s4_streams_elements
 - Link: [Functional Programming Full Code Examples](https://github.com/anmarjarjees/java-extra/tree/main/src/p05_functional_programming)
     - Link: [About Functional Programming](https://github.com/anmarjarjees/java-extra/tree/main?tab=readme-ov-file#functional-programming)
 
