@@ -1,11 +1,11 @@
-# Class 05 - Testing Your Knowledge - Part1:
-This session includes exam part1 and an in-class lab assignment focused on Java Essentials and Exception Handling. It is designed to evaluate both your conceptual understanding and practical programming skills.
+# Class 10 - Testing Your Knowledge - Part1:
+This session includes exam part3 and lab-assignment#3 presentation and demonstration.
 
-## Topic01 - Main Exam Part 1:
-Reviewing your knowledge about Java Essentials.
+## Topic01 - Main Exam Part 2:
+Relationships And Class Interactions.
 
-## Topic02 - Lab-Assignment#1:
-Java Essentials with Exception handling
+## Topic02 - Lab-Assignment#2:
+Presentation, Demonstration, and Q/A Session.
 
 ---
 ---
