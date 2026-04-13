@@ -1,15 +1,11 @@
-# Class 09 - Working with "Generics" and "Functional Programming - Part2":
-This session includes the second part of "Functional Programming"
+# Class 13 - Working with "Swing GUI" - Part1:
+This session includes the first part of "Swing GUI The Basics"
 
-## Topic01 - Functional Programming (Part#2):
-We will cover the final two packages: section3 and section4:
+## Swing Graphical User Interface (GUI) Part#1:
+We will cover the first package "gui_basics": 
+- p1gui_basics
 
-    - Package: s3_functional_interfaces
-    - Package: s4_streams_elements
-- Link: [Functional Programming Full Code Examples](https://github.com/anmarjarjees/java-extra/tree/main/src/p05_functional_programming)
-    - Link: [About Functional Programming](https://github.com/anmarjarjees/java-extra/tree/main?tab=readme-ov-file#functional-programming)
-
-## Topic02 - Lab-Assignment#2:
+- Link: [Swing GUI - The Basics](https://github.com/anmarjarjees/java-ui-swing/tree/main/src/p1gui_basics)
 
 ---
 ---

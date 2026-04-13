@@ -1,15 +1,14 @@
-# Class 09 - Working with "Generics" and "Functional Programming - Part2":
-This session includes the second part of "Functional Programming"
+# Class 11 - Working with "Thread" and "Concurrency" - Part1:
+This session includes the first part of "Thread & Concurrency"
 
-## Topic01 - Functional Programming (Part#2):
-We will cover the final two packages: section3 and section4:
+## "Thread" and "Concurrency" Part#1:
+We will cover the first 3 packages: 
+- demo1
+- demo2
+- demo3
 
-    - Package: s3_functional_interfaces
-    - Package: s4_streams_elements
-- Link: [Functional Programming Full Code Examples](https://github.com/anmarjarjees/java-extra/tree/main/src/p05_functional_programming)
-    - Link: [About Functional Programming](https://github.com/anmarjarjees/java-extra/tree/main?tab=readme-ov-file#functional-programming)
-
-## Topic02 - Lab-Assignment#2:
+- Link: [Functional Programming Full Code Examples](https://github.com/anmarjarjees/java-extra/tree/main/src/p06_thread_concurrency)
+    - Link: [About Concurrency & Working with Threads](https://github.com/anmarjarjees/java-extra/tree/main?tab=readme-ov-file#java-concurrency-working-with-threads)
 
 ---
 ---

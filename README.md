@@ -2,12 +2,13 @@
 Java Programming Level 2 for [EFREI Paris](https://eng.efrei.fr/) - Software Engineering Master's Program 
 
 # Projects:
-- Class01: Reviewing:
+- Class01: Reviewing#1:
     - A PIE Acronym
     - private and public access modifiers
     - default and custom constructors
     - "static" keyword
-- Class02
+- Class02: Reviewing#2:
+- For the rest of classes, check "README.md" File for each folder (Class03 to Class14).
 
 # Main Resources:
 This repo is build based on my following repos. For more details information and comments, refer to these main resource:

@@ -4,7 +4,7 @@ This session includes two topics "Generics" and the first part of "Functional Pr
 ## Topic01 - Generics:
 - Link: [Generics](https://github.com/anmarjarjees/java-extra/tree/main/src/p04_generics)
     - Link: [About Generics](https://github.com/anmarjarjees/java-extra/tree/main?tab=readme-ov-file#generics)
-## Topic02 - Functional Programming (Part1):
+## Topic02 - Functional Programming (Part#1):
 We will cover the first two packages: section1 and section2:
 
     - s1_functional_lambdas_start
